@@ -1,0 +1,8 @@
+{
+  "optimism-sepolia": {
+    "OmniNadsConsumer": {
+      "address": "0x882Cd279A5e3A97F51B4590A408F2eEA8082aF36",
+      "startBlock": 24788202
+    }
+  }
+}
